@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  font-family: monospace;
+}
+
+li {
+  list-style: none;
+}
