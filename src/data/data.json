@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Phone Catalog",
+    "description": "e-commerce web-site for buying mobile phones & accessories.",
+    "stack": "React, TypeScript, SASS, Bulma",
+    "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
+    "image": "/assets/phones.png"
+  },
+  {
+    "id": 2,
+    "title": "ChatApp",
+    "description": "full-stack application for real-time communication in text format.",
+    "stack": "NodeJS, ExpressJS, MongoDB, NextJS, Socket.io, Google Cloud, JWT",
+    "demo": "https://extraordinary-fenglisu-3921a8.netlify.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/chatic-repo",
+    "image": "/assets/chat.png"
+  },
+  {
+    "id": 3,
+    "title": "Quiz App",
+    "description": "application for testing your IQ.",
+    "stack": "Vue, Pinia, SASS, REST API",
+    "demo": "https://delicate-pothos-8926b0.netlify.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/quiz-vue",
+    "image": "/assets/quiz.png"
+  },
+  {
+    "id": 4,
+    "title": "To-do App",
+    "description": "the application for managing users tasks",
+    "stack": "React",
+    "demo": "https://yaroslavkolbaiev.github.io/react_todo-app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/todo-app",
+    "image": "/assets/todo.png"
+  },
+  {
+    "id": 5,
+    "title": "The game 2048",
+    "description": "the gGame to score 2048 points using as few moves as possible.",
+    "stack": "vanilla JavaScript",
+    "demo": "https://yaroslavkolbaiev.github.io/js_2048_game/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/2048-game",
+    "image": "/assets/project8.png"
+  },
+  {
+    "id": 6,
+    "title": "Landing Page",
+    "description": "Museum website",
+    "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
+    "demo": "https://yaroslavkolbaiev.github.io/Museum/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/Museum/tree/develop/src",
+    "image": "/assets/project9.png"
+  },
+  {
+    "id": 7,
+    "title": "Landing Page",
+    "description": "Dia website",
+    "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
+    "demo": "https://yaroslavkolbaiev.github.io/layout_dia/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/layout_dia/tree/develop/src",
+    "image": "/assets/project10.png"
+  },
+  {
+    "id": 8,
+    "title": "Landing Page",
+    "description": "Bosse website",
+    "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
+    "demo": "https://yaroslavkolbaiev.github.io/layout_miami/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/layout_miami/tree/develop/src",
+    "image": "/assets/project11.png"
+  }
+]

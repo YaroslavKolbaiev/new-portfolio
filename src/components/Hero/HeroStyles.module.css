@@ -7,6 +7,7 @@
   box-sizing: content-box;
   position: relative;
   overflow: hidden;
+  padding: 0 60px;
 }
 
 .about {
@@ -56,7 +57,7 @@
 }
 
 .download:hover {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 @media (max-width: 1024px) {
@@ -71,6 +72,10 @@
 
   .text {
     font-size: 18px;
+  }
+
+  .download {
+    font-size: 16px;
   }
 }
 
