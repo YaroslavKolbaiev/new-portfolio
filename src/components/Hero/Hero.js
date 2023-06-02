@@ -1,6 +1,7 @@
 import React from "react";
 import classes from "./HeroStyles.module.css";
 import Image from "next/image";
+import { BackgroundAnimation } from "../Animation/Animation";
 
 const Hero = () => {
   return (
@@ -15,7 +16,7 @@ const Hero = () => {
           height={720}
         />
         <a className={classes.download} href="/assets/cv.pdf" download>
-          Dowload CV
+          Download CV
         </a>
       </div>
       <div>
@@ -34,6 +35,7 @@ const Hero = () => {
           my social media until I finished the project.
         </p>
       </div>
+      <BackgroundAnimation />
     </div>
   );
 };
