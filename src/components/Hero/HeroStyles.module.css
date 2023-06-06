@@ -1,24 +1,16 @@
 .hero {
   display: flex;
-  gap: 30px;
+  gap: 10px;
   flex-direction: row;
   padding: 0;
   margin: 0 auto;
   box-sizing: content-box;
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
+  padding: 0 60px;
 }
 
-@keyframes gradient {
-  0% {
-    background-position: 0% 0%;
-  }
-  50% {
-    background-position: 100% 100%;
-  }
-  100% {
-    background-position: 0% 0%;
-  }
+.about {
 }
 
 .photo {
@@ -48,7 +40,6 @@
   font-weight: 300;
   padding-bottom: 3.6rem;
   color: rgba(255, 255, 255, 0.5);
-  position: relative;
 }
 
 .download {

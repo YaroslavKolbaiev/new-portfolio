@@ -2,82 +2,73 @@
   {
     "id": 1,
     "title": "Phone Catalog",
-    "description": "E-commerce web-site for buying mobile phones & accessories. User is able to navigate between the pages, explore a specific product, add items to basket or favorites and much more. On the home page a beautifull slider is implemented using React Slick. When user visits products page he or she is able to sort and filter items. State management is performed using useContext hook. Website is fully responsive, paginated and has smooth animation and transition.",
+    "description": "e-commerce web-site for buying mobile phones & accessories.",
     "stack": "React, TypeScript, SASS, Bulma",
     "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
     "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
-    "image": "/assets/phones.jpg"
+    "image": "/assets/phones.png"
   },
   {
     "id": 2,
     "title": "ChatApp",
-    "description": "full-stack application for real-time communication in text format. Server side is built with Node JS and client side with Next JS. When user visits the app for the first time he or she has to register and choose an account avatar. User information is stored in MongoDB database using Mongoose ORM. After successful registration, the user has to confirm an email. Email confirmation is implemented with Google Cloud Services. Socket IO is used for real time communication. For authorization and information security exchange, JWT is used.",
+    "description": "full-stack application for real-time communication in text format.",
     "stack": "NodeJS, ExpressJS, MongoDB, NextJS, Socket.io, Google Cloud, JWT",
     "demo": "https://extraordinary-fenglisu-3921a8.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/chatic-repo",
-    "image": "/assets/chat.jpg"
+    "image": "/assets/chat.png"
   },
   {
     "id": 3,
     "title": "Quiz App",
-    "description": "Application for testing your IQ. A small project for showing skills using the VueJS framework. Pinia is used for state management. After passing the IQ test all information is sent to a server using an API request.",
+    "description": "application for testing your IQ.",
     "stack": "Vue, Pinia, SASS, REST API",
     "demo": "https://delicate-pothos-8926b0.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/quiz-vue",
-    "image": "/assets/quiz.jpg"
-  },
-  {
-    "id": 9,
-    "title": "NextJS Blog-App",
-    "description": "Blog app for posting pictures and sharing your comments. A serverless website is built using NextJS framework with SSR and SSG. Hygraph is used for content management based on GraphQL queries. Website is styled with TailwindCSS. Authorization is implemented with Firebase. User is able to explore particular posts, create their own and leave comments on other posts.",
-    "stack": "NextJS, Firebase, GraphQL, Hygraph, Tailwind, TypeScript",
-    "demo": "https://next-blog-tau-lovat.vercel.app/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/next-blog",
-    "image": "/assets/blog.jpg"
+    "image": "/assets/quiz.png"
   },
   {
     "id": 4,
     "title": "To-do App",
-    "description": "Application for managing users tasks. Build with react and typescript. User is able to create, delete and change posts. All data is saved in local storage, so after page reload all information is available.",
+    "description": "the application for managing users tasks",
     "stack": "React",
     "demo": "https://yaroslavkolbaiev.github.io/react_todo-app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/todo-app",
-    "image": "/assets/todo.jpg"
+    "image": "/assets/todo.png"
   },
   {
     "id": 5,
     "title": "The game 2048",
-    "description": "the gGame to score 2048 points using as few moves as possible. The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.",
+    "description": "the gGame to score 2048 points using as few moves as possible.",
     "stack": "vanilla JavaScript",
     "demo": "https://yaroslavkolbaiev.github.io/js_2048_game/",
     "gitHub": "https://github.com/YaroslavKolbaiev/2048-game",
-    "image": "/assets/game.jpg"
+    "image": "/assets/project8.png"
   },
   {
     "id": 6,
-    "title": "Museum Landing Page",
-    "description": "Responsive Website built Using HTML, SASS & JavaScript.",
+    "title": "Landing Page",
+    "description": "Museum website",
     "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
-    "demo": "https://yaroslavkolbaiev.github.io/museum-landing/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/museum-landing",
-    "image": "/assets/museum.jpg"
+    "demo": "https://yaroslavkolbaiev.github.io/Museum/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/Museum/tree/develop/src",
+    "image": "/assets/project9.png"
   },
   {
     "id": 7,
-    "title": "Dia Landing Page",
-    "description": "Responsive Website built using HTML, SASS & JavaScript.",
+    "title": "Landing Page",
+    "description": "Dia website",
     "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
-    "demo": "https://yaroslavkolbaiev.github.io/dia/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/dia",
-    "image": "/assets/dia.jpg"
+    "demo": "https://yaroslavkolbaiev.github.io/layout_dia/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/layout_dia/tree/develop/src",
+    "image": "/assets/project10.png"
   },
   {
     "id": 8,
-    "title": "Bose Landing Page",
-    "description": "Responsive Website built using HTML and SCSS.",
+    "title": "Landing Page",
+    "description": "Bosse website",
     "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
-    "demo": "https://yaroslavkolbaiev.github.io/bose/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/bose",
-    "image": "/assets/bose.jpg"
+    "demo": "https://yaroslavkolbaiev.github.io/layout_miami/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/layout_miami/tree/develop/src",
+    "image": "/assets/project11.png"
   }
 ]
