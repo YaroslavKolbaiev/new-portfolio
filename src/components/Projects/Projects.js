@@ -6,8 +6,11 @@ import { AiOutlineLink } from "react-icons/ai";
 import Link from "next/link";
 import EventEmitter from "events";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
+import Image from "next/image";
+import { blurDataUrl } from "@/helpers/blurDataUrl";
 
 export const Projects = () => {
+  const { rgbDataURL } = blurDataUrl();
   const [addProjects, setAddProjects] = useState(2);
   const [readMore, setReadMore] = useState({});
   const ref = useRef(null);
@@ -56,10 +59,14 @@ export const Projects = () => {
             return (
               <CSSTransition key={id} timeout={800} classNames="cardAnimation">
                 <div className={classes.card}>
-                  <img
+                  <Image
                     src={image}
                     alt="project picture"
                     className={classes.img}
+                    width={710}
+                    height={710}
+                    placeholder="blur"
+                    blurDataURL={rgbDataURL(156, 201, 227)}
                   />
                   <div className={classes.header_container}>
                     <h3 className={classes.header}>{title}</h3>
