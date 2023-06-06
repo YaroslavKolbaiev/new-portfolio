@@ -58,7 +58,7 @@ export const Projects = () => {
                 <div className={classes.card}>
                   <img
                     src={image}
-                    alt="project image"
+                    alt="project picture"
                     className={classes.img}
                   />
                   <div className={classes.header_container}>
