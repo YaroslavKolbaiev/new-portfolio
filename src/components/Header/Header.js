@@ -16,16 +16,18 @@ export const Header = () => {
       </div>
       <div className={classes.headerLinks}>
         <li>
-          <Link className={classes.NavLink} href="tel:+380999139994">
-            +380999139994
+          <Link className={classes.NavLink} href="#projects">
+            Projects
           </Link>
         </li>
         <li>
-          <Link
-            className={classes.NavLink}
-            href="mailto:yaroslavkolbaiev@gmail.com"
-          >
-            Email
+          <Link className={classes.NavLink} href="#tech">
+            Technologies
+          </Link>
+        </li>
+        <li>
+          <Link className={classes.NavLink} href="#about">
+            About
           </Link>
         </li>
       </div>

@@ -1,13 +1,13 @@
 import React from "react";
+import classes from "./Layout.module.css";
 import { Header } from "@/components/Header/Header";
-import Footer from "@/components/Footer/Footer";
 
 export const Layout = ({ children }) => {
   return (
-    <div className="layout">
+    <div className={classes.layout}>
       <Header />
       <main>{children}</main>
-      <Footer />
+      {/* <Footer/> */}
     </div>
   );
 };
