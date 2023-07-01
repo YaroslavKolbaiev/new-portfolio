@@ -36,6 +36,15 @@
     "image": "/assets/blog.jpg"
   },
   {
+    "id": 10,
+    "title": "The Witcher",
+    "description": "Fully animated, responsive and cross browser web site. Built with Next JS13. Styling with Tailwind CSS. Animation and transitions implemented using Framer Motion. Deployed with Vercel. ",
+    "stack": "Next13 JS, Framer Motion, Tailwind CSS",
+    "demo": "https://witcher-eta.vercel.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/witcher",
+    "image": "/assets/witcher.jpg"
+  },
+  {
     "id": 4,
     "title": "To-do App",
     "description": "Application for managing users tasks. Build with react and typescript. User is able to create, delete and change posts. All data is saved in local storage, so after page reload all information is available.",

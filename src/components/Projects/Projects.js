@@ -99,7 +99,13 @@ export const Projects = () => {
             );
           })}
       </TransitionGroup>
-      <div ref={ref} style={{ width: "1px", height: "1px" }} />
+      <div
+        ref={ref}
+        style={{
+          width: "10px",
+          height: "10px",
+        }}
+      />
     </div>
   );
 };
