@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
-import { DiJsBadge } from "react-icons/di";
+import { DiCode } from "react-icons/di";
 import { FaTelegramPlane } from "react-icons/fa";
 import classes from "./HeaderStyles.module.css";
 
@@ -10,7 +10,7 @@ export const Header = () => {
     <div className={classes.container}>
       <div className={classes.logo}>
         <Link href="/" className={classes.portfolioLink}>
-          <DiJsBadge size="4rem" />{" "}
+          <DiCode size="4rem" />{" "}
           <span style={{ fontSize: "24px", marginLeft: "5px" }}>Portfolio</span>
         </Link>
       </div>
