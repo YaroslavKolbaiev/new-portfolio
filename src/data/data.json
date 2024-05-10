@@ -1,5 +1,23 @@
 [
   {
+    "id": 11,
+    "title": "Ultimate Job",
+    "description": "The \"Ultimate Job\" project is an extensive full-stack web application that serves as a comprehensive platform for job seekers and employers. It is designed to provide a seamless, efficient, and user-friendly experience, leveraging a variety of modern technologies and best practices in web development.",
+    "stack": "Vue, TypeScript, Python, Django, Django Rest Framework, JWT, GDAL, PostgreSQL, EsLint",
+    "demo": "https://ultimate-job.netlify.app",
+    "gitHub": "https://github.com/YaroslavKolbaiev/jobs-app",
+    "image": "/assets/ultimateJob.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Millionare Game",
+    "description": "This project is a web-based version of the popular quiz game \"Who Wants to Be a Millionaire?\". It was built using React and TypeScript, showcasing the ability to create interactive and dynamic web applications.",
+    "stack": "React, TypeScript, SASS, EsLint",
+    "demo": "https://millionare-game-zeta.vercel.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/millionare-game",
+    "image": "/assets/milioneri.jpg"
+  },
+  {
     "id": 9,
     "title": "Next Admin",
     "description": "The admin dashboard application designed to provide administrators with a comprehensive overview of system's status and activities. The app includes features and widgets that display key metrics and data in an easy-to-understand format, allowing administrators to monitor the system effectively and make informed decisions.",
@@ -27,7 +45,7 @@
     "image": "/assets/phones-cat.jpg"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "The Witcher",
     "description": "Fully animated, responsive and cross browser web site. Built with Next JS13. Styling with Tailwind CSS. Animation and transitions implemented using Framer Motion. Deployed with Vercel. ",
     "stack": "Next13 JS, Framer Motion, Tailwind CSS",
@@ -52,32 +70,5 @@
     "demo": "https://yaroslavkolbaiev.github.io/js_2048_game/",
     "gitHub": "https://github.com/YaroslavKolbaiev/2048-game",
     "image": "/assets/the-game.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Quiz App",
-    "description": "Application for testing your IQ. A small project for showing skills using the VueJS framework. Pinia is used for state management. After passing the IQ test all information is sent to a server using an API request.",
-    "stack": "Vue, Pinia, SASS, REST API",
-    "demo": "https://delicate-pothos-8926b0.netlify.app/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/quiz-vue",
-    "image": "/assets/quiz-app.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Museum Landing Page",
-    "description": "Responsive Website built using HTML, SASS & JavaScript. The design of the landing page is based on a Figma design. The landing page needs to be responsive and adapt to various screen sizes ranging from large screens (2560px) to mobile screens (>320px)",
-    "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
-    "demo": "https://yaroslavkolbaiev.github.io/museum-landing/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/museum-landing",
-    "image": "/assets/muzeum.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Dia Landing Page",
-    "description": "Responsive Website built using HTML, SASS & JavaScript. The design of the landing page is based on a Figma design. The landing page needs to be responsive and adapt to various screen sizes ranging from large screens (2560px) to mobile screens (>320px)",
-    "stack": "HTML, CSS, SASS, Vanilla JavaScript, Figma",
-    "demo": "https://yaroslavkolbaiev.github.io/dia/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/dia",
-    "image": "/assets/dia-landing.jpg"
   }
 ]
