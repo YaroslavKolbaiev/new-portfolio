@@ -9,6 +9,15 @@
     "image": "/assets/ultimateJob.jpg"
   },
   {
+    "id": 17,
+    "title": "okBay",
+    "description": "okBay is an innovative e-commerce web application meticulously designed to revolutionize the online shopping experience. At its core, okBay aims to provide users with a seamless, efficient, and enjoyable shopping journey through the integration of cutting-edge technologies and design principles.",
+    "stack": "Svelte, TypeScript, Redis, Firebase, Tailwind, SSR",
+    "demo": "https://ok-bay-oqfwxo66fa-lz.a.run.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/okBay",
+    "image": "/assets/ok-bayjpg.jpg"
+  },
+  {
     "id": 10,
     "title": "Millionare Game",
     "description": "This project is a web-based version of the popular quiz game \"Who Wants to Be a Millionaire?\". It was built using React and TypeScript, showcasing the ability to create interactive and dynamic web applications.",
