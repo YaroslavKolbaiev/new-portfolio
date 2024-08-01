@@ -13,7 +13,7 @@
     "title": "Articles Explorer",
     "description": "This project is a full-stack Next.js application designed for exploring articles. It includes features for loading articles on a schedule using a webhook, performing CRUD operations from an admin dashboard, and ensuring secure access through authorization. The project leverages modern web development tools and practices to provide a robust and maintainable codebase.",
     "stack": "NextJS, TypeScript, MongoDB, PrismaORM, Tailwind, SSR, server actions",
-    "demo": "https://rss-articles-6fpgm56yy-yaroslavkolbaievs-projects.vercel.app/",
+    "demo": "https://rss-articles-six.vercel.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/rss-articles",
     "image": "/assets/articles.jpg"
   },
