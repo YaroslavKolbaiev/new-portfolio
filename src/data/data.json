@@ -1,14 +1,5 @@
 [
   {
-    "id": 11,
-    "title": "Ultimate Job",
-    "description": "The \"Ultimate Job\" project is an extensive full-stack web application that serves as a comprehensive platform for job seekers and employers. It is designed to provide a seamless, efficient, and user-friendly experience, leveraging a variety of modern technologies and best practices in web development.",
-    "stack": "Vue, TypeScript, Python, Django, Django Rest Framework, JWT, GDAL, PostgreSQL, EsLint",
-    "demo": "https://ultimate-job.netlify.app",
-    "gitHub": "https://github.com/YaroslavKolbaiev/jobs-app",
-    "image": "/assets/ultimateJob.jpg"
-  },
-  {
     "id": 17,
     "title": "okBay",
     "description": "okBay is an innovative e-commerce web application meticulously designed to revolutionize the online shopping experience. At its core, okBay aims to provide users with a seamless, efficient, and enjoyable shopping journey through the integration of cutting-edge technologies and design principles.",
@@ -16,6 +7,15 @@
     "demo": "https://ok-bay-oqfwxo66fa-lz.a.run.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/okBay",
     "image": "/assets/ok-bayjpg.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Articles Explorer",
+    "description": "This project is a full-stack Next.js application designed for exploring articles. It includes features for loading articles on a schedule using a webhook, performing CRUD operations from an admin dashboard, and ensuring secure access through authorization. The project leverages modern web development tools and practices to provide a robust and maintainable codebase.",
+    "stack": "NextJS, TypeScript, MongoDB, PrismaORM, Tailwind, SSR, server actions",
+    "demo": "https://rss-articles-6fpgm56yy-yaroslavkolbaievs-projects.vercel.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/rss-articles",
+    "image": "/assets/articles.jpg"
   },
   {
     "id": 10,
@@ -52,6 +52,15 @@
     "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
     "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
     "image": "/assets/phones-cat.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Ultimate Job",
+    "description": "The \"Ultimate Job\" project is an extensive full-stack web application that serves as a comprehensive platform for job seekers and employers. It is designed to provide a seamless, efficient, and user-friendly experience, leveraging a variety of modern technologies and best practices in web development.",
+    "stack": "Vue, TypeScript, Python, Django, Django Rest Framework, JWT, GDAL, PostgreSQL, EsLint",
+    "demo": "https://ultimate-job.netlify.app",
+    "gitHub": "https://github.com/YaroslavKolbaiev/jobs-app",
+    "image": "/assets/ultimateJob.jpg"
   },
   {
     "id": 12,
