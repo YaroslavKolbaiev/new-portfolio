@@ -1,5 +1,14 @@
 [
   {
+    "id": 45,
+    "title": "Kolendar",
+    "description": "This is a calendar scheduler application built with Vue.js. It allows users to create, view, and manage events in a user-friendly interface. The application supports various views such as day, week, and month, and includes features like event creation, editing, and deletion.",
+    "stack": "Vue, TypeScript, Tailwind, Schedule-X",
+    "demo": "https://yaroslavkolbaiev.github.io/calendar-vue/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/calendar-vue",
+    "image": "/assets/calendar.jpg"
+  },
+  {
     "id": 17,
     "title": "okBay",
     "description": "okBay is an innovative e-commerce web application meticulously designed to revolutionize the online shopping experience. At its core, okBay aims to provide users with a seamless, efficient, and enjoyable shopping journey through the integration of cutting-edge technologies and design principles.",
