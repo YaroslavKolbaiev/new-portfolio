@@ -15,7 +15,7 @@ const Hero = () => {
           width={720}
           height={720}
         />
-        <a className={classes.download} href="/assets/CV.pdf" download>
+        <a className={classes.download} href="/assets/cv.pdf" download>
           Download CV
         </a>
       </div>
