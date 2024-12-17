@@ -1,21 +1,21 @@
-import React from "react";
-import classes from "./HeroStyles.module.css";
-import Image from "next/image";
-import { BackgroundAnimation } from "../Animation/Animation";
+import React from 'react';
+import classes from './HeroStyles.module.css';
+import Image from 'next/image';
+import { BackgroundAnimation } from '../Animation/Animation';
 
 const Hero = () => {
   return (
     <div className={classes.hero}>
       <div>
         <Image
-          style={{ objectFit: "cover" }}
+          style={{ objectFit: 'cover' }}
           className={classes.photo}
           src="/assets/ava.jpg"
           alt="Picture of admin"
           width={720}
           height={720}
         />
-        <a className={classes.download} href="/assets/cv.pdf" download>
+        <a className={classes.download} href="/assets/CV.pdf" download>
           Download CV
         </a>
       </div>

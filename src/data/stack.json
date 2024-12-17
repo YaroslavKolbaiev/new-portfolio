@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "image": "/assets/react.png"
+  },
+  {
+    "id": 2,
+    "title": "Next JS",
+    "image": "/assets/next.png"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "image": "/assets/js.png"
+  },
+  {
+    "id": 4,
+    "title": "TypeScript",
+    "image": "/assets/ts.png"
+  },
+  {
+    "id": 5,
+    "title": "Vue",
+    "image": "/assets/vue.png"
+  },
+  {
+    "id": 6,
+    "title": "Redux",
+    "image": "/assets/redux.png"
+  },
+  {
+    "id": 7,
+    "title": "Tailwind",
+    "image": "/assets/tailwind.png"
+  },
+  {
+    "id": 8,
+    "title": "UI",
+    "image": "/assets/ui.png"
+  },
+  {
+    "id": 9,
+    "title": "Vite",
+    "image": "/assets/vitejs.png"
+  },
+  {
+    "id": 10,
+    "title": "Apollo",
+    "image": "/assets/apollo.png"
+  },
+  {
+    "id": 11,
+    "title": "Sass",
+    "image": "/assets/sass.png"
+  }
+]
