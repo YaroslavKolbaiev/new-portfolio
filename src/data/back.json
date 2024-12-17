@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Node",
+    "image": "/assets/node.png"
+  },
+  {
+    "id": 2,
+    "title": "express",
+    "image": "/assets/express.png"
+  },
+  {
+    "id": 3,
+    "title": "php",
+    "image": "/assets/php.png"
+  },
+  {
+    "id": 4,
+    "title": "laravel",
+    "image": "/assets/laravel.png"
+  },
+  {
+    "id": 5,
+    "title": "python",
+    "image": "/assets/python.png"
+  },
+  {
+    "id": 6,
+    "title": "django",
+    "image": "/assets/django.png"
+  },
+  {
+    "id": 7,
+    "title": "graphql",
+    "image": "/assets/graphql.png"
+  },
+  {
+    "id": 8,
+    "title": "sql",
+    "image": "/assets/sql.png"
+  },
+  {
+    "id": 9,
+    "title": "docker",
+    "image": "/assets/docker.png"
+  },
+  {
+    "id": 10,
+    "title": "mongo",
+    "image": "/assets/mongo.png"
+  },
+  {
+    "id": 11,
+    "title": "socket",
+    "image": "/assets/socket.png"
+  },
+  {
+    "id": 12,
+    "title": "fire",
+    "image": "/assets/firebase.png"
+  },
+  {
+    "id": 13,
+    "title": "jenkins",
+    "image": "/assets/jenkins.png"
+  },
+  {
+    "id": 14,
+    "title": "redis",
+    "image": "/assets/redis.png"
+  }
+]
